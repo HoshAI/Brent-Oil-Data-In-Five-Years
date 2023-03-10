@@ -35,7 +35,7 @@ b) The dependant variable(y) represent values that can be denoted as a mathemati
 
 ### 4. What are the components of Time Series?
 A. There are 4 components:
-a) Trend - Upward & downward movement of the data with time over a large period of time. Eq: Appreciation of Dollar vs rupee.
+a) Trend - Upward & downward movement of the data with time over a large period of time. Eq: Appreciation of Dollar vs Naira.
 b) Seasonality - seasonal variances. Eq: Ice cream sales increases in Summer only
 c) Noise or Irregularity - Spikes & troughs at random intervals
 d) Cyclicity - behavior that repeats itself after large interval of time, like months, years etc.
