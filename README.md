@@ -9,14 +9,13 @@ The data contains daily Brent oil prices from 17th of May 1987 until the 13th of
 
 # TABLE OF CONTENT
 
-## Input Data
-## Data Preprocessing
-## Data Exploration
-## Forecast Model
-## 1. Using ARIMA
-## Prediction & Reverse transformations
-## 2) Modeling using SARIMA
-## 3) Modeling using LTSM
+### Input Data
+### Data Preprocessing
+### Data Exploration
+### Forecast Model
+### 1. Using ARIMA Prediction & Reverse transformations
+### 2) Modeling using SARIMA
+### 3) Modeling using LTSM
 
 QnA 
 ### 1. What is Time series analysis?
