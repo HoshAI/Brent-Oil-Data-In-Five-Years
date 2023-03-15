@@ -1,1 +1,23 @@
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import os
+import math, time
+from sklearn import preprocessing
+from sklearn.preprocessing import MinMaxScaler
+from keras.models import Sequential
+from keras.layers.core import Dense, Dropout, Activation
+from keras.layers import LSTM
+from keras.models import load_model
+from math import sqrt
+import keras
+import h5py
+import requests
+from keras.callbacks import EarlyStopping
+from keras.callbacks import ModelCheckpoint
+from sklearn.metrics import mean_squared_error
+print(os.listdir("/kaggle/input/brent-oil-data-in-five-years"))
 
+
+df = pd.read_csv("/kaggle/input/brent-oil-data-in-five-years/Brent Oil Futures Historical Data.csv")
+
+df.head()
